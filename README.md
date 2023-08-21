@@ -22,7 +22,7 @@
 
 😄 Pronombres... El
 
-⚡️ Dato curioso... Soy un entusiasta de los mundo de Apple, los videojuegos, la musica y el cine. Me gustan los desafíos de programación y me encanta explorar nuevas bibliotecas y herramientas para ampliar mis conocimientos.
+⚡️ Dato curioso... Soy un entusiasta en tecnologia Apple, los videojuegos, la musica y el cine. Me gustan los desafíos de programación y me encanta explorar nuevas bibliotecas y herramientas para ampliar mis conocimientos.
 ## 🛠 Skills
 Swift, SwiftUI, Xcode, en formacion y construción... 😉
 
