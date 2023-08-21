@@ -24,5 +24,5 @@
 
 ⚡️ Dato curioso... Soy un entusiasta de los mundo de apple, los videojuegos, la musica y el cine. Me gustan los desafíos de programación y me encanta explorar nuevas bibliotecas y herramientas para ampliar mis conocimientos.
 ## 🛠 Skills
-Swift, SwiftUI, Xcode, y en formacion y construción... 😉
+Swift, SwiftUI, Xcode, en formacion y construción... 😉
 
