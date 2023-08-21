@@ -18,7 +18,7 @@
 
 💬 Pregúntame sobre... programación en Swift, desarrollo de aplicaciones para iOS, resolución de problemas de código y buenas prácticas de desarrollo.
 
-📫 Cómo contactarme... Puedes enviarme un correo electrónico a [raul.galle79@gmail.com].
+📫 Cómo contactarme... Puedes enviarme un correo electrónico a [raul.gallego79@gmail.com].
 
 😄 Pronombres... El
 
