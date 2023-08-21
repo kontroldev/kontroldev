@@ -14,7 +14,7 @@
 
 👯‍♀️ Busco colaborar en... proyectos emocionantes dentro de la comunidad de desarrollo de iOS, donde pueda contribuir y aprender en equipo.
 
-🤔 Busco ayuda con... cualquier aspecto relacionado con la programación y el desarrollo en Swift. ¡Estoy dispuesto(a) a aprender y crecer juntos(as)!
+🤔 Busco ayuda con... cualquier aspecto relacionado con la programación y el desarrollo en Swift. ¡Estoy dispuesto a aprender y crecer juntos!
 
 💬 Pregúntame sobre... programación en Swift, desarrollo de aplicaciones para iOS, resolución de problemas de código y buenas prácticas de desarrollo.
 
@@ -22,7 +22,7 @@
 
 😄 Pronombres... El
 
-⚡️ Dato curioso... Soy un entusiasta de los mundo de apple, los videojuegos, la musica y el cine. Me gustan los desafíos de programación y me encanta explorar nuevas bibliotecas y herramientas para ampliar mis conocimientos.
+⚡️ Dato curioso... Soy un entusiasta de los mundo de Apple, los videojuegos, la musica y el cine. Me gustan los desafíos de programación y me encanta explorar nuevas bibliotecas y herramientas para ampliar mis conocimientos.
 ## 🛠 Skills
 Swift, SwiftUI, Xcode, en formacion y construción... 😉
 
