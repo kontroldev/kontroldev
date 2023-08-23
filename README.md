@@ -1,8 +1,9 @@
 
+
 # Hi, I'm kontroldev, iOS developer 👋
 
 
-## 🔗 Contactame
+## 🔗 Contáctame
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raulgallegoalonso/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kontrol_deejay)
 
@@ -12,7 +13,7 @@
 </p>
 
 
-## Otras secciones comunes del perfil de Github.
+## Acerca de mi.
 👩‍💻 Actualmente estoy trabajando en... fortalecer mis habilidades a través de proyectos de formación en línea.
 
 🧠 Actualmente estoy aprendiendo... Swift para el desarrollo de aplicaciones iOS y macOS.
@@ -28,33 +29,9 @@
 😄 Pronombres... El
 
 ⚡️ Dato curioso... Soy un entusiasta en tecnologia Apple, los videojuegos, la musica y el cine. Me gustan los desafíos de programación y me encanta explorar nuevas bibliotecas y herramientas para ampliar mis conocimientos.
-## 🛠 Skills
-Swift, SwiftUI, Xcode, en formacion 😉
 
-  
-
-<br/>  
-
-
-
-<div align="center">  
-<a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
   
 ## Github Stats  
