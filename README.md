@@ -1,16 +1,18 @@
 
 # Hi, I'm kontroldev, iOS developer 👋
 
-<h3 align="left">Connect with me:</h3>
+
+## 🔗 Contactame
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raulgallegoalonso/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kontrol_deejay)
+
+<h3 align="left">Mi servidor publico de Swift en español:</h3>
 <p align="left">
-<a href="https://twitter.com/kontrol_deejay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kontrol_deejay" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/raulgallegoalonso/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raulgallegoalonso/" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/wuCs3rUzUE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/wuCs3rUzUE" height="30" width="40" /></a>
 </p>
 
 
-
-## Other Common Github Profile Sections
+## Otras secciones comunes del perfil de Github.
 👩‍💻 Actualmente estoy trabajando en... fortalecer mis habilidades a través de proyectos de formación en línea.
 
 🧠 Actualmente estoy aprendiendo... Swift para el desarrollo de aplicaciones iOS y macOS.
