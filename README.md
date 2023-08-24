@@ -1,6 +1,6 @@
 
 
-# Hi, I'm kontroldev, iOS developer 👋
+# Hola, soy kontroldev, desarrollador de iOS 👋
 
 
 ## 🔗 Contáctame
