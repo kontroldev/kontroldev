@@ -24,8 +24,6 @@
 
 💬 Pregúntame sobre... programación en Swift, desarrollo de aplicaciones para iOS, resolución de problemas de código y buenas prácticas de desarrollo.
 
-📫 Cómo contactarme... Puedes enviarme un correo electrónico a [raul.gallego79@gmail.com].
-
 😄 Pronombres... El
 
 ⚡️ Dato curioso... Soy un entusiasta en tecnologia Apple, los videojuegos, la musica y el cine. Me gustan los desafíos de programación y me encanta explorar nuevas bibliotecas y herramientas para ampliar mis conocimientos.
