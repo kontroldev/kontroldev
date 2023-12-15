@@ -26,7 +26,7 @@
 
 😄 Pronombres... El
 
-⚡️ Dato curioso... Soy un entusiasta en tecnologia Apple, los videojuegos, la musica y el cine. Me gustan los desafíos de programación y me encanta explorar nuevas bibliotecas y herramientas para ampliar mis conocimientos.
+⚡️ Dato curioso... Soy un entusiasta en tecnologia Apple, los videojuegos, los animales, la musica y el cine. Me gustan los desafíos de programación y me encanta explorar nuevas bibliotecas y herramientas para ampliar mis conocimientos.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
