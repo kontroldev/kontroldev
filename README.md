@@ -1,6 +1,6 @@
 
 
-# Hola, soy Raúl, desarrollador de Swift Developer 👋
+# Hola, soy Raúl, desarrollador de Swift 👋
 
 
 ## 🔗 Contáctame
