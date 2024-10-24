@@ -1,9 +1,8 @@
-# Hola, soy Raúl, desarrollador de Swift 👋
+# Hola, soy Raúl, desarrollador de iOS Developer. 👋
 
 Soy un apasionado del desarrollo de aplicaciones móviles, actualmente centrado en aprender y dominar Swift para crear experiencias increíbles en iOS y macOS. Siempre estoy buscando formas de mejorar y compartir mi conocimiento con la comunidad.
-
 ## 🚀 Sobre mí
-- 🎓 Aprendiendo Swift para el desarrollo de aplicaciones iOS y macOS.
+- 🎓 Siempre aprendiendo Swift para el desarrollo de aplicaciones iOS y macOS.
 - 👨‍💻 Participando activamente en proyectos de formación en línea para fortalecer mis habilidades.
 - 🤝 Me encanta colaborar en proyectos emocionantes y contribuir a la comunidad de desarrollo de iOS.
 - 📚 Me interesan las buenas prácticas de desarrollo, la resolución de problemas de código, y explorar nuevas bibliotecas y herramientas.
@@ -11,10 +10,19 @@ Soy un apasionado del desarrollo de aplicaciones móviles, actualmente centrado 
 ## 🛠️ Habilidades y Herramientas
 - **Lenguajes:**
   - Swift, SwiftUI
-- **Herramientas:**
-  - Xcode, Git, Figma
+- **Herramientas y tecnologías:**
+  - Xcode, Git, Figma, XCTest
 - **Intereses:**
-  - Desarrollo móvil, UI/UX, patrones de diseño, automatización
+  - Desarrollo móvil, UI/UX, patrones de diseño, automatización, XCTest de Swift
+
+## 🌍 Experiencia Relevante
+- **Comunidad de soporte oficial de Apple**: Contribuidor en las comunidades de soporte oficial de Apple, ayudando a usuarios con problemas relacionados con macOS e iOS.
+- **MoureDev (Colaborador y Moderador)**: Participo activamente en la comunidad de MoureDev, compartiendo conocimientos y aprendiendo de otros profesionales del desarrollo.
+
+## 📜 Certificaciones y Formación
+- Swift Developer Program 2024 (Apple Coding Academy) - 2024/2025
+- Curso de Programación en Swift (Platzi)
+- Diseño y Fabricación de Satélites (Platzi Space Program)
 
 ## Lenguajes y Herramientas:
 - **Lenguajes de programación:**
@@ -30,7 +38,7 @@ Soy un apasionado del desarrollo de aplicaciones móviles, actualmente centrado 
   </p>
 
 ## 🔗 ¡Conéctate conmigo!
-Estoy siempre abierto a conversar sobre programación, proyectos o cualquier cosa relacionada con tecnología. No dudes en contactarme.
+Estoy siempre abierto a conversar sobre programación, el ecosistema Apple o cualquier proyecto interesante. ¡Conectemos y aprendamos juntos!
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raulgallegoalonso/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kontrol_deejay)
