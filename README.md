@@ -15,10 +15,6 @@ Soy un apasionado del desarrollo de aplicaciones móviles, actualmente centrado 
 - **Intereses:**
   - Desarrollo móvil, UI/UX, patrones de diseño, automatización, XCTest de Swift
 
-## 🌍 Experiencia Relevante
-- **Comunidad de soporte oficial de Apple**: Contribuidor en las comunidades de soporte oficial de Apple, ayudando a usuarios con problemas relacionados con macOS e iOS.
-- **MoureDev (Colaborador y Moderador)**: Participo activamente en la comunidad de MoureDev, compartiendo conocimientos y aprendiendo de otros profesionales del desarrollo.
-
 - **Herramientas de desarrollo:**
   <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40"/>
