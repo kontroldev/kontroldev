@@ -19,17 +19,6 @@ Soy un apasionado del desarrollo de aplicaciones móviles, actualmente centrado 
 - **Comunidad de soporte oficial de Apple**: Contribuidor en las comunidades de soporte oficial de Apple, ayudando a usuarios con problemas relacionados con macOS e iOS.
 - **MoureDev (Colaborador y Moderador)**: Participo activamente en la comunidad de MoureDev, compartiendo conocimientos y aprendiendo de otros profesionales del desarrollo.
 
-## 📜 Certificaciones y Formación
-- Swift Developer Program 2024 (Apple Coding Academy) - 2024/2025
-- Curso de Programación en Swift (Platzi)
-- Diseño y Fabricación de Satélites (Platzi Space Program)
-
-## Lenguajes y Herramientas:
-- **Lenguajes de programación:**
-  <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
-    <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="swiftui" width="40" height="40"/>
-  </p>
 - **Herramientas de desarrollo:**
   <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40"/>
