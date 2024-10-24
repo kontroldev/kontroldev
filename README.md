@@ -9,7 +9,7 @@ Soy un apasionado del desarrollo de aplicaciones móviles, actualmente centrado 
 
 ## 🛠️ Habilidades y Herramientas
 - **Lenguajes:**
-  - Swift, SwiftUI
+  - Swift 6, SwiftUI
 - **Herramientas y tecnologías:**
   - Xcode, Git, Figma, XCTest
 - **Intereses:**
