@@ -1,21 +1,22 @@
-# Hola, soy Raúl, desarrollador de iOS Developer. 👋
+# Hola, soy Raúl, iOS Developer. 👋
 
-Soy un apasionado del desarrollo de aplicaciones móviles, actualmente centrado en aprender y dominar Swift para crear experiencias increíbles en iOS y macOS. Siempre estoy buscando formas de mejorar y compartir mi conocimiento con la comunidad.
+Desarrollador de aplicaciones móviles apasionado por crear experiencias increíbles en iOS y macOS. En constante aprendizaje de Swift y SwiftUI para ofrecer interfaces elegantes y funcionalidades optimizadas en cada proyecto. Busco siempre mejorar y compartir mis conocimientos con la comunidad de desarrollo.
+
 ## 🚀 Sobre mí
-- 🎓 Siempre aprendiendo Swift para el desarrollo de aplicaciones iOS y macOS.
-- 👨‍💻 Participando activamente en proyectos de formación en línea para fortalecer mis habilidades.
-- 🤝 Me encanta colaborar en proyectos emocionantes y contribuir a la comunidad de desarrollo de iOS.
-- 📚 Me interesan las buenas prácticas de desarrollo, la resolución de problemas de código, y explorar nuevas bibliotecas y herramientas.
+- 🎓 Aprendiendo Swift para desarrollo de aplicaciones en iOS y macOS, comprometido con una formación continua.
+- 👨‍💻 Colaboro en proyectos en línea y en comunidades de programación, enriqueciendo mis habilidades y apoyando a otros.
+- 🤝 Amante de los proyectos desafiantes y de contribuir a la comunidad iOS.
+- 📚 Interesado en buenas prácticas de desarrollo, resolución de problemas complejos y en explorar nuevas herramientas y librerías.
 
 ## 🛠️ Habilidades y Herramientas
 - **Lenguajes:**
-  - Swift 6, SwiftUI
+  - Swift, SwiftUI
 - **Herramientas y tecnologías:**
-  - Xcode, Git, Figma, XCTest
-- **Intereses:**
-  - Desarrollo móvil, UI/UX, patrones de diseño, automatización, XCTest de Swift
+  - Xcode, Git, Freeform, XCTest
+- **Áreas de interés:**
+  - Desarrollo móvil, UI/UX, patrones de diseño, automatización y pruebas automatizadas con XCTest.
 
-## Lenguajes y Herramientas:
+## 📌 Lenguajes y Herramientas:
 - **Lenguajes de programación:**
   <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
@@ -25,14 +26,14 @@ Soy un apasionado del desarrollo de aplicaciones móviles, actualmente centrado 
   <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Apple_Freeform_icon.svg/240px-Apple_Freeform_icon.svg.png" alt="freeform" width="40" height="40"/>
   </p>
 
 ## 🔗 ¡Conéctate conmigo!
-Estoy siempre abierto a conversar sobre programación, el ecosistema Apple o cualquier proyecto interesante. ¡Conectemos y aprendamos juntos!
+Estoy siempre abierto a hablar sobre programación, el ecosistema Apple y cualquier proyecto emocionante. ¡Conectemos y aprendamos juntos!
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raulgallegoalonso/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kontrol_deejay)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raulgallegoalonso/)
+[![X](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kontrol_deejay)
 
 <h3 align="left">Comunidad de Swift en español:</h3>
 <p align="left">
