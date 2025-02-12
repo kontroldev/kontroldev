@@ -51,10 +51,3 @@ Estoy siempre abierto a charlar sobre programación, el desarrollo en el ecosist
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raulgallegoalonso/)  
 [![X](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kontrol_deejay)  
-
-### **Comunidad de Swift en español:**
-<p align="left">
-<a href="https://discord.gg/wuCs3rUzUE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/wuCs3rUzUE" height="30" width="40" /></a>
-</p>
-
----
