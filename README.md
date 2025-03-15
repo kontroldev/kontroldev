@@ -1,51 +1,36 @@
 # 👋 Hola, soy Raúl, iOS Developer
 
-Desarrollador de aplicaciones móviles con un fuerte enfoque en el ecosistema de Apple. Apasionado por crear experiencias únicas utilizando tecnologías como **Swift**, **SwiftUI** y **SwiftData**, siempre en busca de mejorar mis habilidades y contribuir a proyectos innovadores. 
-
-Comprometido con las mejores prácticas de desarrollo, la colaboración en equipo y la creación de aplicaciones eficientes y elegantes.
-
----
-
 ## 🚀 Sobre mí
-- 🎓 En continua formación como iOS Developer, con un enfoque en **Swift**, **SwiftUI**, **SwiftData** y **pruebas unitarias (Unit Testing)**.
-- 👨‍💻 Activo en comunidades de programación, ayudando y aprendiendo junto a otros desarrolladores.
-- 🤝 Interesado en participar en proyectos desafiantes que impulsen mi aprendizaje y aporten valor.
-- 📚 Explorando nuevas herramientas y tecnologías, con un fuerte interés en diseño de interfaces (UI/UX) y pruebas automatizadas.
+ 
+Soy Raúl, iOS Developer en constante aprendizaje y apasionado del mundo Apple. Llevo más de un año metido de lleno en el desarrollo con Swift, especializándome en SwiftUI, SwiftData y pruebas automatizadas con XCTest.
+
+Me encanta todo lo que rodea al ecosistema Apple y disfruto compartiendo lo que aprendo, tanto en comunidades como en redes. Siempre estoy con ganas de crecer, aportar valor y enfrentar nuevos retos. Me encantaría colaborar en proyectos de Swift que me permitan seguir aprendiendo, ganar experiencia y desarrollar nuevas habilidades junto a otros desarrolladores.
 
 ---
 
-## 🛠️ Habilidades y Herramientas
+## 🛠️ Habilidades, Herramientas y Tecnologías
 
-### **Lenguajes:**
-- Swift, SwiftUI
+- **Lenguajes y Frameworks:** Swift, SwiftUI, SwiftData.
+- **Herramientas:** Xcode, Git & GitHub, XCTest.
+- **Áreas de interés:** Desarrollo iOS, diseño centrado en el usuario (UI/UX), pruebas automatizadas.
 
-### **Herramientas y tecnologías:**
-- Xcode, Git & GitHub, XCTest, SwiftData
-
-### **Áreas de interés:**
-- Desarrollo móvil para iOS
-- Diseño centrado en el usuario (UI/UX)
-- Pruebas automatizadas y Unit Testing
-- Colaboración y control de versiones con Git
-
----
-
-## 📌 Tecnologías
-### **Lenguajes de programación:**
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
-  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="swiftui" width="40" height="40"/>
-</p>
-
-### **Herramientas de desarrollo:**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Apple_Freeform_icon.svg/240px-Apple_Freeform_icon.svg.png" alt="freeform" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/> 
+  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
 ---
 
+## 🌟 Proyectos Destacados
+
+- **[Mini-Proyectos-SwiftUI](https://github.com/kontroldev/Mini-Proyectos-SwiftUI):** Repositorio donde practico y experimento con pequeños retos y funcionalidades con SwiftUI. Ideal para consolidar conocimientos y explorar componentes del framework.
+- **[Swift-Learning](https://github.com/kontroldev/Swift-Learning):** Repositorio personal con apuntes, ejercicios y ejemplos prácticos que acompañan mi aprendizaje de Swift y todo el ecosistema Apple.
+
+📦 Actualmente estoy trabajando en un nuevo proyecto más grande que muy pronto compartiré por aquí 😉
+
+---
 ## 🔗 ¡Conéctate conmigo!
 Estoy siempre abierto a charlar sobre programación, el desarrollo en el ecosistema Apple y participar en proyectos interesantes. ¡Conectemos y aprendamos juntos!
 
