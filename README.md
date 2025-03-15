@@ -11,7 +11,7 @@ Me encanta todo lo que rodea al ecosistema Apple y disfruto compartiendo lo que 
 ## 🛠️ Habilidades, Herramientas y Tecnologías
 
 - **Lenguajes y Frameworks:** Swift, SwiftUI, SwiftData.
-- **Herramientas:** Xcode, Git & GitHub, XCTest.
+- **Herramientas:** Xcode, Terminal, Git & GitHub, XCTest.
 - **Áreas de interés:** Desarrollo iOS, diseño centrado en el usuario (UI/UX), pruebas automatizadas.
 
 <p align="left">
