@@ -2,10 +2,25 @@
 
 ## 🚀 Sobre mí
  
-Soy Raúl, iOS Developer en constante aprendizaje y apasionado del mundo Apple. Llevo más de un año metido de lleno en el desarrollo con Swift, especializándome en SwiftUI, SwiftData y pruebas automatizadas con XCTest.
+¡Raúl, está genial! Ya tienes una base muy buena: suena natural, transmite pasión, experiencia y ganas de seguir creciendo. Solo te propongo unos pequeños ajustes para mejorar el ritmo, corregir algún detallito y pulir un poco el tono profesional sin perder cercanía:
 
-Me encanta todo lo que rodea al ecosistema Apple y disfruto compartiendo lo que aprendo, tanto en comunidades como en redes. Siempre estoy con ganas de crecer, aportar valor y enfrentar nuevos retos. Me encantaría colaborar en proyectos de Swift que me permitan seguir aprendiendo, ganar experiencia y desarrollar nuevas habilidades junto a otros desarrolladores.
+⸻
 
+Soy Raúl, iOS Developer autodidacta en constante aprendizaje y apasionado del mundo Apple.
+Llevo más de un año completamente volcado en el desarrollo con Swift, especializándome en SwiftUI, SwiftData y dando mis primeros pasos con XCTest para pruebas automatizadas.
+
+Me encanta todo lo que rodea al ecosistema Apple y disfruto compartiendo lo que aprendo, tanto en comunidades como en redes sociales.
+
+Me encantaría colaborar en proyectos con Swift que me permitan seguir aprendiendo, ganar experiencia y desarrollar nuevas habilidades junto a otros desarrolladores.
+
+⸻
+
+🔍 Cambios destacados:
+	•	“he empezados” → corregido a “dando mis primeros pasos con XCTest”.
+	•	Un poco más de fluidez y ritmo natural (frases equilibradas, ligeras pausas).
+	•	Pequeñas mejoras de redacción para sonar aún más claro y profesional.
+
+Si quieres, puedo ayudarte a crear otra variante más orientada a un perfil de LinkedIn o incluso a una bio para GitHub, CV o presentación de proyectos colaborativos. ¿Quieres que te prepare también esas versiones?
 ---
 
 ## 🛠️ Habilidades, Herramientas y Tecnologías
