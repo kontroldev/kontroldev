@@ -37,7 +37,7 @@ Si quieres, puedo ayudarte a crear otra variante más orientada a un perfil de L
 ## 🌟 Proyectos Destacados
 
 - **[Mini-Proyectos-SwiftUI](https://github.com/kontroldev/Mini-Proyectos-SwiftUI):** Repositorio donde practico y experimento con pequeños retos y funcionalidades con SwiftUI. Ideal para consolidar conocimientos y explorar componentes del framework.
-- **[Swift-Learning](https://github.com/kontroldev/Swift-Learning):** Repositorio personal con apuntes, ejercicios y ejemplos prácticos que acompañan mi aprendizaje de Swift y todo el ecosistema Apple.
+- **[Swift-Learning](https://github.com/kontroldev/Swift-Learning):** Repositorio personal con apuntes, ejercicios y ejemplos prácticos que acompañan mi aprendizaje de Swift.
 
 📦 Actualmente estoy trabajando en un nuevo proyecto más grande que muy pronto compartiré por aquí 😉
 
