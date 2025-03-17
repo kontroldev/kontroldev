@@ -9,14 +9,6 @@ Me encanta todo lo que rodea al ecosistema Apple y disfruto compartiendo lo que 
 
 Me encantaría colaborar en proyectos con Swift que me permitan seguir aprendiendo, ganar experiencia y desarrollar nuevas habilidades junto a otros desarrolladores.
 
-⸻
-
-🔍 Cambios destacados:
-	•	“he empezados” → corregido a “dando mis primeros pasos con XCTest”.
-	•	Un poco más de fluidez y ritmo natural (frases equilibradas, ligeras pausas).
-	•	Pequeñas mejoras de redacción para sonar aún más claro y profesional.
-
-Si quieres, puedo ayudarte a crear otra variante más orientada a un perfil de LinkedIn o incluso a una bio para GitHub, CV o presentación de proyectos colaborativos. ¿Quieres que te prepare también esas versiones?
 ---
 
 ## 🛠️ Habilidades, Herramientas y Tecnologías
