@@ -1,13 +1,12 @@
-# 👋 Hola, soy Raúl, iOS Developer
+# ¡Hola! Soy Raúl, y me encanta el desarrollo de aplicaciones para iOS.
 
-## 🚀 Sobre mí
+## 🧑‍💻 Sobre mí
  
-Soy Raúl, iOS Developer autodidacta en constante aprendizaje y apasionado del mundo Apple.
-Llevo más de un año completamente volcado en el desarrollo con Swift, especializándome en SwiftUI, SwiftData y dando mis primeros pasos con XCTest para pruebas automatizadas.
+¡Hola! Soy Raúl, un iOS Developer autodidacta que está enamorado del mundo Apple. Llevo más de un año metido de lleno en el desarrollo con Swift, especialmente con SwiftUI y SwiftData. También estoy empezando a explorar XCTest para pruebas automatizadas.
 
-Me encanta todo lo que rodea al ecosistema Apple y disfruto compartiendo lo que aprendo, tanto en comunidades como en redes sociales.
+Me apasiona todo lo que rodea al ecosistema Apple y me encanta compartir lo que aprendo con otras personas, ya sea en comunidades o en redes sociales.
 
-Me encantaría colaborar en proyectos con Swift que me permitan seguir aprendiendo, ganar experiencia y desarrollar nuevas habilidades junto a otros desarrolladores.
+Estoy buscando colaborar en proyectos con Swift que me permitan seguir aprendiendo, ganar experiencia y crecer como desarrollador junto a otros.
 
 ---
 
