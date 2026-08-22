@@ -1,40 +1,72 @@
-# ¡Hola! Soy Raúl, y me encanta el desarrollo de aplicaciones para iOS.
+<div align="center">
 
-## 🧑‍💻 Sobre mí
- 
-¡Hola! Soy Raúl, un iOS Developer autodidacta que está enamorado del mundo Apple. Llevo más de un año metido de lleno en el desarrollo con Swift, especialmente con SwiftUI y SwiftData. También estoy empezando a explorar XCTest para pruebas automatizadas.
+# Raúl Gallego
 
-Me apasiona todo lo que rodea al ecosistema Apple y me encanta compartir lo que aprendo con otras personas, ya sea en comunidades o en redes sociales.
+### Desarrollador iOS · Swift · SwiftUI · SwiftData
 
-Estoy buscando colaborar en proyectos con Swift que me permitan seguir aprendiendo, ganar experiencia y crecer como desarrollador junto a otros.
+Creo aplicaciones nativas para el ecosistema Apple, con especial atención a la arquitectura, la experiencia de uso y los detalles.
+
+[Portfolio](https://kontroldev.github.io/) · [LinkedIn](https://www.linkedin.com/in/raulgallegoalonso) · [GitHub](https://github.com/kontroldev)
+
+</div>
 
 ---
 
-## 🛠️ Habilidades, Herramientas y Tecnologías
+## 🛠️ Tecnologías
 
-- **Lenguajes y Frameworks:** Swift, SwiftUI, SwiftData.
-- **Herramientas:** Xcode, Terminal, Git & GitHub, XCTest.
-- **Áreas de interés:** Desarrollo iOS, diseño centrado en el usuario (UI/UX), pruebas automatizadas.
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/> 
-  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Logotipo de Swift" width="48" height="48" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="Logotipo de SwiftUI" width="48" height="48" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="Logotipo de Xcode" width="48" height="48" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Logotipo de Git" width="48" height="48" />
 </p>
 
----
-
-## 🌟 Proyectos Destacados
-
-- **[Mini-Proyectos-SwiftUI](https://github.com/kontroldev/Mini-Proyectos-SwiftUI):** Repositorio donde practico y experimento con pequeños retos y funcionalidades con SwiftUI. Ideal para consolidar conocimientos y explorar componentes del framework.
-- **[Swift-Learning](https://github.com/kontroldev/Swift-Learning):** Repositorio personal con apuntes, ejercicios y ejemplos prácticos que acompañan mi aprendizaje de Swift.
-
-📦 Actualmente estoy trabajando en un nuevo proyecto más grande que muy pronto compartiré por aquí 😉
+<p align="center"><strong>Swift · SwiftUI · SwiftData · Xcode · Git</strong></p>
 
 ---
-## 🔗 ¡Conéctate conmigo!
-Estoy siempre abierto a charlar sobre programación, el desarrollo en el ecosistema Apple y participar en proyectos interesantes. ¡Conectemos y aprendamos juntos!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raulgallegoalonso/)  
-[![X](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kontrol_deejay)  
+## 📚 Proyecto destacado
+
+<div align="center">
+
+### [PanelMax](https://github.com/kontroldev/PanalMax-App)
+
+**En desarrollo**
+
+app iOS en SwiftUI para organizar colecciones de cómics, seguir series y próximos lanzamientos, e importar y leer archivos CBZ y PDF.
+
+**Swift · SwiftUI · SwiftData · StoreKit 2 · PDFKit · ImageIO · ZIPFoundation**
+
+[Ver repositorio](https://github.com/kontroldev/PanalMax-App) · [Ver en el portfolio](https://kontroldev.github.io/#proyectos)
+
+</div>
+
+---
+
+## 🧩 Otros proyectos
+
+- **[Mini-Proyectos-SwiftUI](https://github.com/kontroldev/Mini-Proyectos-SwiftUI)** — Pequeños proyectos y ejercicios para explorar componentes y patrones de SwiftUI.
+- **[Swift-Learning](https://github.com/kontroldev/Swift-Learning)** — Apuntes, ejercicios y ejemplos prácticos sobre Swift.
+
+---
+
+## 🎯 Ahora mismo
+
+<div align="center">
+
+Desarrollando **PanelMax**, mejorando arquitectura y pruebas, y continuando mi crecimiento dentro del ecosistema Apple.
+
+</div>
+
+---
+
+<div align="center">
+
+## Contacto
+
+[LinkedIn](https://www.linkedin.com/in/raulgallegoalonso) · [X](https://twitter.com/kontrol_deejay) · [Portfolio](https://kontroldev.github.io/)
+
+</div>
