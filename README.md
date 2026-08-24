@@ -32,7 +32,7 @@ Creo aplicaciones nativas para el ecosistema Apple, con especial atención a la 
 
 <div align="center">
 
-### [PanelMax](https://github.com/kontroldev/PanalMax-App)
+### [PanelMax](https://github.com/kontroldev/PanelMax-App)
 
 **En desarrollo**
 
@@ -40,7 +40,7 @@ app iOS en SwiftUI para organizar colecciones de cómics, seguir series y próxi
 
 **Swift · SwiftUI · SwiftData · StoreKit 2 · PDFKit · ImageIO · ZIPFoundation**
 
-[Ver repositorio](https://github.com/kontroldev/PanalMax-App) · [Ver en el portfolio](https://kontroldev.github.io/#proyectos)
+[Ver repositorio](https://github.com/kontroldev/PanelMax-App) · [Ver en el portfolio](https://kontroldev.github.io/#proyectos)
 
 </div>
 
